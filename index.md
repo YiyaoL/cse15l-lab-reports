@@ -1,6 +1,4 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 # _Lab0 set up_
 
 [Lab Report 1](lab-report-1-week-0.md)
