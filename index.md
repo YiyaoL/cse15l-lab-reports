@@ -1,12 +1,13 @@
 # _Lab0 set up_
 
-$Try$ $this$ $out$
+[Lab Report 1](https://YiyaoL.github.io/<your-lab-reports-repo>/lab-report-1-week-0.html)
 
-## Hello World
-*This is updated* **as I type**
+
+$this$ $page$
+*is updated* **as I type**
 
 does `this` work?
-$$Yes!$$
+$$Yes$$
 -----
 ```This line won't show
 Code block here
