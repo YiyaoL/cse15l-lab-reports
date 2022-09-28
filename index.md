@@ -1,6 +1,6 @@
 # _Lab0 set up_
 
-[Lab Report 1](https://YiyaoL.github.io/<your-lab-reports-repo>/lab-report-1-week-0.html)
+[Lab Report 1](lab-report-1-week-0.html)
 
 
 $this$ $page$
