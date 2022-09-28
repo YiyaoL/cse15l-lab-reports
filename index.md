@@ -2,21 +2,15 @@
 
 [Lab Report 1](lab-report-1-week-0.md)
 
-[Lab Report 1-2](https://YiyaoL.github.io/<your-lab-reports-repo>/lab-report-1-week-0.md)
+
 
 $this$ $page$
-*is updated* **as I type**
+*is* `updated` **as** $$I$$ _type_
 
-does `this` work?
-$$Yes$$
 -----
-```This line won't show
+```
 Code block here
 - 1. 
 - 2. 
 - 3.
-But this does
 ```
-1.
-- 2. 
-- 3. 
