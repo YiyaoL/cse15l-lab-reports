@@ -1,1 +1,6 @@
-Lab0 set up
+_Lab0 set up_
+
+$Try$ $this$ $out$
+
+# Hello World
+*This is updated* **as I type**
