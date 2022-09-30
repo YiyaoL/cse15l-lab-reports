@@ -4,7 +4,6 @@
 ### 1. Get Your Account
 You will first need to look up your student account for the course. 
 - Go to [this website](https://sdacs.ucsd.edu/~icc/index.php) and type in your UCSD username and student id. Then click "submit". 
-![step1-1](look_up.png)
 - This will be your account name.
 ![step1-2](look_up2.png)
 
@@ -68,6 +67,9 @@ Switching between accounts can be very repetitive, so we will set an ssh key to 
 **_However, I keep getting `no such file or directory`._**
     
 (1) Check if id_rsa.pub exists in my laptop:
+
 ![step6_3](scp_1.png)
+
 (2) Try to copy to server:
+
 ![step6_4](scp_2.png)
