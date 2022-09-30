@@ -24,6 +24,7 @@ $ ssh xxxxxxxxxxx@ieng6.ucsd.edu
 - Then you might see something like:
 ![step3_1](ssh_1.png)
 Congratulations! This means you are in. 
+
 - If you are prompted to type the password multiple times and are still unable to log in, try changing your **course specific (NOT your tritonlink account)** password [here](https://sdacs.ucsd.edu/~icc/password.php). 
 
 ### 4. Running Commands
@@ -49,10 +50,14 @@ Try out some basic commands.
     ```
     This will print out the name of your operating system, your user name, home directory, and working directory. For example: 
     ![step5_1](wai_1.png)
+    
     *(This screenshot is from my laptop cmd. You can also run it either through VS code.)*
+
 - Now, move the file from your laptop to the server using the `scp` (secure copy) command. Then, log into your remote access account. 
 ![step5_2](move.png)
+
 - Run the file again and you will see something like this. Notice that the system, name, and directories change. 
+
 ![step5_3](wai_2.png)
 
 ### 6. Set an SSH Key
