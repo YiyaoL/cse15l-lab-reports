@@ -1,5 +1,5 @@
 
-# _Lab0 set up_
+# _INDEX_
 
 [Lab Report 0](lab-report-1-week-0.md)
 
