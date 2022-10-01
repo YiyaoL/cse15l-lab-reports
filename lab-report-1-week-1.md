@@ -85,5 +85,8 @@ mkdir .ssh
 ### 7. Make Remote Running More Pleasant
 - Make some changes to the local copy of WhereAmI.java.
 - Log in to the server, and remove the previous copy of WhereAmI.java & WhereAmI.class we created. Exit.
-- In your local machine, `scp` the modified copy to the server.
-- Log in to the remote machine. You can avoid typing the username@host again by pressing the **up arrow** on your keyboard. This copies the previous command. 
+- In your local machine, `scp` the modified copy to the server.Note that you can avoid typing the username@host again by pressing the **up arrow** on your keyboard. This copies the previous command. 
+- If you run the file locally, it will show: 
+    ![step7_1](change_1.png)
+- Use the **up arrow** to log back in to the server and run the file again, it will show: 
+    ![step7_2](change_2.png)
