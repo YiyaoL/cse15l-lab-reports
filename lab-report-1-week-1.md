@@ -27,8 +27,8 @@ $ ssh xxxxxxxxxxx@ieng6.ucsd.edu
 
 - Then you might see something like:
 
-    ![step3_1](ssh_1.png)
-    
+    !["step3_1"](ssh_1.png)
+
 _Congratulations! This means you are in._ 
 
 - If you are prompted to type the password multiple times and are still unable to log in, try changing your **course specific (NOT your tritonlink account name)** password [here](https://sdacs.ucsd.edu/~icc/password.php). 
