@@ -26,6 +26,7 @@ $ ssh xxxxxxxxxxx@ieng6.ucsd.edu
 - The first time you connect, there may be a message to ask you if you want to continue connecting (I forgot to take a screenshot in lab of that message). Type "yes".
 
 - Then you might see something like:
+
     ![step3_1](ssh_1.png)
 _Congratulations! This means you are in._ 
 
