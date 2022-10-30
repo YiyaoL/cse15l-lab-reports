@@ -7,7 +7,7 @@
 
 [Lab Report 2](https://yiyaol.github.io/lab3/w3_lab_report.html)
 
-
+[Lab Report 3](lab-report-week5.md)
 
 $this$ $page$
 *is* `updated` **as** $$I$$ _type_
