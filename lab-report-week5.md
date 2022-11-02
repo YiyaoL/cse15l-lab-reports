@@ -22,23 +22,30 @@
     s```
 - Eg2. Find all text files named "preface". 
     ```
+    find . -path '*/test/*.py' -type f
     yil126@LAPTOP-FIMLB8QQ:/mnt/c/Users/liuyi/Desktop/docsearch/technical$ find -name preface.txt -type f
     ./911report/preface.txt
     ```
 - Eg3. Find all .txt files that have the folder 911report in their path
     ```
-    yil126@LAPTOP-FIMLB8QQ:/mnt/c/Users/liuyi/Desktop/docsearch$ grep -l "base pair" docsearch/plos/*.txt > find-results.txt
-    ./technical/911report/chapter-13.3.txt
-    ./technical/911report/chapter-13.4.txt
-    ./technical/911report/chapter-13.5.txt
-    ./technical/911report/chapter-2.txt
-    ./technical/911report/chapter-3.txt
-    ./technical/911report/chapter-5.txt
-    ./technical/911report/chapter-6.txt
-    ./technical/911report/chapter-7.txt
-    ./technical/911report/chapter-8.txt
-    ./technical/911report/chapter-9.txt
-    ./technical/911report/preface.txt
+    yil126@LAPTOP-FIMLB8QQ:/mnt/c/Users/liuyi/Desktop/docsearch/technical$ find . -type f -path "*/911report/*"
+    ./911report/chapter-1.txt
+    ./911report/chapter-10.txt
+    ./911report/chapter-11.txt
+    ./911report/chapter-12.txt
+    ./911report/chapter-13.1.txt
+    ./911report/chapter-13.2.txt
+    ./911report/chapter-13.3.txt
+    ./911report/chapter-13.4.txt
+    ./911report/chapter-13.5.txt
+    ./911report/chapter-2.txt
+    ./911report/chapter-3.txt
+    ./911report/chapter-5.txt
+    ./911report/chapter-6.txt
+    ./911report/chapter-7.txt
+    ./911report/chapter-8.txt
+    ./911report/chapter-9.txt
+    ./911report/preface.txt
     ```
 ---
 ### A second primary we can use is `-mtime n`. This will return files whose modification time in seconds, subtracted from the initialization time, divided by 86400, is `n` (i.e., n is measured in days). Note that +n means more than n, n means exactly n, and -n means less than n. This can be useful if we cannot remember the name of a file but can remember that we modified it in a certain time range.
