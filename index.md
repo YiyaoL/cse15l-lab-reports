@@ -9,10 +9,13 @@
 
 [Lab Report 3](lab-report-week5.md)
 
+[Lab Report 4](lab-report-week7.md)
+
+
+---
 $this$ $page$
 *is* `updated` **as** $$I$$ _type_
 
------
 ```
 Code block here
 - 1. 
