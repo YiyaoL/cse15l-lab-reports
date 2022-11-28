@@ -11,6 +11,7 @@
 
 [Lab Report 4](lab-report-week7.md)
 
+[Lab Report 5](https://yiyaol.github.io/MY-list-examples-grader/lab-report-week9.html)
 
 ---
 $this$ $page$
